@@ -16,4 +16,4 @@ You can see all requirements in <code>install.sh</code>
 <code>python spaceman.py</code>
 
 ## Video demo
-[Click here to watch video](https://asciinema.org/a/TxSBN6QzYP95a8cJpGO8nzijS)
+[Click here to watch video](https://asciinema.org/a/332497)
