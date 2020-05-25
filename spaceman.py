@@ -14,7 +14,7 @@ if a=="1":
 	r=requests.get("http://api.open-notify.org/astros.json")
 	j=r.json()
 	a=j["number"]
-	print(a,"People in space right now")
+	print(a," People in space right now")
 if a=="2":
 	print()
 	r=requests.get("http://api.open-notify.org/astros.json")
